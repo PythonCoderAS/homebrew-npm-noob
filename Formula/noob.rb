@@ -2,8 +2,8 @@ class Noob < Formula
   include Language::Python::Virtualenv
 
   desc "Generate Homebrew formulae for npm packages"
-  homepage "https://github.com/zmwangx/homebrew-npm-noob"
-  url "https://github.com/zmwangx/homebrew-npm-noob/archive/v0.3.tar.gz"
+  homepage "https://github.com/PythonCoderAS/homebrew-npm-noob"
+  url "https://github.com/PythonCoderAS/homebrew-npm-noob/archive/v0.3.tar.gz"
   sha256 "fc1833d2a12b3737d19c0bb9cfa46937c5a5d903b232fb01baa57e97c8ebbab5"
 
   depends_on "python3"
