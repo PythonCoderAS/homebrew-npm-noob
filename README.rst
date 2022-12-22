@@ -1,7 +1,7 @@
 homebrew-npm-noob
 =================
 
-|PyPI| |License| |Build Status|
+|License| |Build Status|
 
 homebrew-npm-noob generates a Homebrew formula for an npm package. It is inspired by `homebrew-pypi-poet <https://github.com/tdsmith/homebrew-pypi-poet>`_.
 
