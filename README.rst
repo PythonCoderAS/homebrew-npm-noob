@@ -8,17 +8,9 @@ homebrew-npm-noob generates a Homebrew formula for an npm package. It is inspire
 Installation
 ------------
 
-Either
-
 ::
 
-    pip install homebrew-npm-noob
-
-or
-
-::
-
-    brew install zmwangx/npm-noob/noob
+    brew install PythonCoderAS/npm-noob/noob
 
 Usage
 -----
@@ -85,9 +77,7 @@ License
 
 homebrew-npm-noob is released under the MIT license. See ``COPYING`` for details.
 
-.. |PyPI| image:: https://img.shields.io/pypi/v/homebrew-npm-noob.svg?maxAge=3600
-   :target: https://pypi.python.org/pypi/homebrew-npm-noob
 .. |License| image:: https://img.shields.io/badge/license-MIT-blue.svg?maxAge=86400
-   :target: https://github.com/zmwangx/homebrew-npm-noob/blob/master/COPYING
-.. |Build Status| image:: https://github.com/zmwangx/homebrew-npm-noob/workflows/test/badge.svg
-   :target: https://github.com/zmwangx/homebrew-npm-noob/actions
+   :target: https://github.com/PythonCoderAS/homebrew-npm-noob/blob/master/COPYING
+.. |Build Status| image:: https://github.com/PythonCoderAS/homebrew-npm-noob/workflows/test/badge.svg
+   :target: https://github.com/PythonCoderAS/homebrew-npm-noob/actions
